@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+body{
+	background-image: url(back1.jpg);
+	background-image: width 100%;
+}
+.head1{
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	padding: 100px 0px 25px 0px;
+	color: #fff;
+	font-size: 50px;
+}
+.imgme{
+	width: 300px;
+	margin: 0px auto;
+	display: block;
+	border-radius: 150px;
+}
+.wrapper{
+	margin: 0px auto;
+	width: 410px;
+}
+
+.imgs{
+	padding:50px 15px;
+	size: 100%
+	
+}
+.imgs:hover{
+	size: 150%
+
+}
+.class{
+	margin: 0px;
+	padding: 50px 0px;
+	background-color: #222;
+	color: white;
+
+}
